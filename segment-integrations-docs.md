@@ -14,7 +14,7 @@ This destination is maintained by Wudpecker. For any issues with the destination
 1. From your workspace's [Destination catalog page](https://app.segment.com/goto-my-workspace/destinations/catalog){:target="_blank”} search for "<Userlens>".
 2. Select <Userlens> and click **Add Destination**.
 3. Select an existing Source to connect to <Userlens>.
-4. Go to the [<Userlens> settings](https://app.userlens.io/settings/integrations){:target="_blank"}, find and copy the **API key**.
+4. Go to the [<Userlens> settings](https://app.userlens.io/settings?tab=integrations&subtab=SEGMENT){:target="_blank"}, find and copy the **API key**.
 5. Enter the **API Key** in the <Userlens> destination settings in Segment.
 
 
