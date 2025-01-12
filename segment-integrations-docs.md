@@ -20,12 +20,12 @@ This destination is maintained by Wudpecker. For any issues with the destination
 
 ## Supported methods
 
-Userlens supports the following methods, as specified in the [Segment Spec](/docs/connections/spec).
+Userlens supports the following methods, as specified in the [Segment Spec](https://segment.com/docs/connections/spec).
 
 
 ### Identify
 
-Send [Identify](/docs/connections/spec/identify) calls to Identify users in Userlens. For example:
+Send [Identify](https://segment.com/docs/connections/spec/identify) calls to Identify users in Userlens. For example:
 
 ```js
 analytics.identify('userId123', {
@@ -38,7 +38,7 @@ Segment sends Identify calls to Userlens as an `identify` event.
 
 ### Track
 
-Send [Track](/docs/connections/spec/track) calls to add events in Userlens. For example:
+Send [Track](https://segment.com/docs/connections/spec/track) calls to add events in Userlens. For example:
 
 ```js
 analytics.track('Login Button Clicked')
