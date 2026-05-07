@@ -1,11 +1,11 @@
 ---
-title: Userlens By Wudpecker - Destination
+title: Userlens - Destination
 ---
 
 
-[Userlens](https://wudpecker.io/?utm_source=segmentio&utm_medium=docs&utm_campaign=partners){:target="_blank"} By Wudpecker is the Next-Gen of Product Intelligence. Userlens combines quantitative data from segment, posthog, etc and qualitative feedback from Intercom, Wudpecker user interviews, etc to give you a full picture of how your users are using your products and features.
+[Userlens](https://userlens.io/){:target="_blank"} is the Next-Gen of Product Intelligence. Userlens combines quantitative data from segment, posthog, etc and qualitative feedback from Intercom, Pylon etc to give you a full picture of how your users are using your products and features.
 
-This destination is maintained by Wudpecker. For any issues with the destination, [contact the Wudpecker Support team](mailto:ankur@wudpecker.io).
+This destination is maintained by Userlens. For any issues with the destination, [contact the Userlens Support team](mailto:ankur@userlens.io).
 
 
 ## Getting started
